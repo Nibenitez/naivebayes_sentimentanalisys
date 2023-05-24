@@ -22,4 +22,4 @@ In your environment, make sure you have access to the necessary Python libraries
 Follow the detailed instructions in the Jupyter notebook to perform sentiment analysis.
 
 
-Authors: Natalia Benitez
+Author: Natalia Benitez
